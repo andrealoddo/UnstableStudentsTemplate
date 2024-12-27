@@ -6,6 +6,8 @@
 |-----------------------|---------------|--------------|-----------------------------------|
 | Austin Reaves         | 60/61/12345   |     BASE     | <a.reaves15@studenti.unica.it>    |
 
+> [!WARNING]
+> Modificare la tabella qui sopra con le vostre informazioni.
 > [!TIP]
 > Potete trovare materiale utile per la scrittura del vostro README [qui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
