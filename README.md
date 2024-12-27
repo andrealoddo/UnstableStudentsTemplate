@@ -1,6 +1,6 @@
 # **UNSTABLE STUDENTS - PR1 2024/25**
 
->  Questo è un progetto svolto nell'ambito dell'esame di **Programmazione 1 - Modulo II** *(PR1)* del **CdLM in Informatica** presso l'**Università degli Studi di Cagliari**
+>  Questo è un progetto svolto nell'ambito dell'esame di **Programmazione 1 - Modulo II** *(PR1)* del **CdL in Informatica** dell'**Università degli Studi di Cagliari**
 
 | **Studente**          | **Matricola** | **Progetto** | **E-Mail**                        |
 |-----------------------|---------------|--------------|-----------------------------------|
